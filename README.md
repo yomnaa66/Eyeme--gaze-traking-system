@@ -37,5 +37,29 @@ pip install opencv-python dlib numpy
 
 
 Required Model File:
-Due to GitHub's file size limits, the mandatory model file shape_predictor_68_face_landmarks.dat (~96MB) is not included in this repository.Download: [Insert Link to your Google Drive/OneDrive here]Placement: Place the .dat file inside the src/trained_models/ directory before running the application.UsageRun the main script to start the eye-tracking interface:Bashpython src/main.py
-The TeamInstitution: Beni-Suef University, Faculty of Computer Science & AI (IS Section).Supervisors:Dr. Amal FouadEng. Abanop GergesDevelopers:Ahmed Ali ShabanAlaa Sayed Abd Al-KareemOmnia Mohammed SayedYomna Magdy MohammedMohammed Ibrahim MohammedGhada Ragab DiabReham Mohammed AhmedNote: This project was developed as a 2024 Graduation Project to demonstrate the potential of AI in improving accessibility and real-time environmental communication.
+Due to GitHub's file size limits, the mandatory model file shape_predictor_68_face_landmarks.dat (~96MB) is not included in this repository.
+
+Usage:
+Run the main script to start the eye-tracking 
+interface:
+python src/main.py
+
+
+The TeamInstitution: 
+Beni-Suef University, Faculty of Computer Science & AI (IS Section).
+Supervisors:
+Dr. Amal FouadEng. 
+Abanop Gerges
+
+Developers:
+Ahmed Ali Shaban
+Alaa Sayed Abd Al-Kareem
+Omnia Mohammed Sayed
+Yomna Magdy Mohammed
+Mohammed Ibrahim Mohammed
+Ghada Ragab Diab
+Reham Mohammed Ahmed
+Yomna Mahmoud Mohamed Abdelhafiez
+
+
+Note: This project was developed as a 2024 Graduation Project to demonstrate the potential of AI in improving accessibility and real-time environmental communication.
